@@ -14,7 +14,7 @@
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://picasion.com/"><img  align="right" src="https://i.picasion.com/pic92/28aee3e62215e6084886d600d2af3fd0.gif?width=676&height=676" width="180" height="180" alt="Gabi-pic"/></a><br/>
+  <a href="https://picasion.com/"><img  align="right" src="https://i.picasion.com/pic92/28aee3e62215e6084886d600d2af3fd0.gif?width=676&height=676" width="200" height="200" alt="Gabi-pic"/></a><br/>
 </div>
 
 ##
