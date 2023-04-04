@@ -24,7 +24,7 @@
 <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/28aee3e62215e6084886d600d2af3fd0.gif?width=676&height=676" width="180" height="180" alt="Gabi-pic"/></a>
 
 ### Contate-me por:
-[![Linkedin](https://img.shields.io/badge/-gabrielledevita-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielledevita/)](https://www.linkedin.com/in/gabrielledevita/)
+[![Linkedin](https://img.shields.io/badge/-gabrielledevita-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielledevita/)](https://www.linkedin.com/in/gabriellerodriguesdevita/)
 [![Gmail](https://img.shields.io/badge/-gabidevita18@gmail.com-d93025?style=flat&logo=Gmail&logoColor=white&link=mailto:gabidevita18@gmail)](mailto:gabidevita18@gmail.com)
 
 
